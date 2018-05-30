@@ -1,0 +1,6 @@
+/linux-4.14.24/include/linux/serial_core.h ./
+/linux-4.14.24/include/linux/console.h ./
+/linux-4.14.24/drivers/tty/serial/virtual_core.c ./
+/linux-4.14.24/drivers/tty/serial/8250/8250_core.c ./
+/linux-4.14.24/kernel/printk/printk.c ./
+/linux-4.14.24/drivers/tty/serial/Makefile ./
